@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    align-self: stretch;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    background: #121212E3;
+
+    
+}
+
+.navbar-logo{
+    width: Hug (122px)px;
+    height: Hug (30.24px)px;
+    top: 59px;
+    left: 93px;
+    gap: 4.49px;
+    opacity: 0px;  
+
+}
+
+.navbar-links{
+    display: flex;
+    align-self: stretch;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar-links li a:hover{
+    color: #e5e5e5;
+}
